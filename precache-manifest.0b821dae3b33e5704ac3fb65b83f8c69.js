@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/static/js/main.c796bd74.chunk.js"
   },
   {
-    "revision": "8281c90f3e387576ee930e0f515e41c7",
-    "url": "/static/media/skillsselect.8281c90f.png"
-  },
-  {
     "revision": "341bd5c23125c3ed0becd7c75353ef03",
     "url": "/static/media/portfolioselect.341bd5c2.png"
+  },
+  {
+    "revision": "8281c90f3e387576ee930e0f515e41c7",
+    "url": "/static/media/skillsselect.8281c90f.png"
   },
   {
     "revision": "0ccca831f7030a4aa1f3f362349d38a0",
