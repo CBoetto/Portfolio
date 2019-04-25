@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "527d47949a8413c8e92fda26fa3bf361",
-    "url": "/static/media/plum.527d4794.png"
+    "revision": "343e994c1d7c224f1a1e25ee63ef6e6e",
+    "url": "/static/media/lima.343e994c.png"
   },
   {
-    "revision": "e5df02c22038b791bec1",
-    "url": "/static/css/main.3f0b2950.chunk.css"
+    "revision": "062aa311303f9452252a",
+    "url": "/static/css/main.95c99e09.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,24 +16,24 @@ self.__precacheManifest = [
     "url": "/static/js/2.abdbe8da.chunk.js"
   },
   {
-    "revision": "343e994c1d7c224f1a1e25ee63ef6e6e",
-    "url": "/static/media/lima.343e994c.png"
+    "revision": "527d47949a8413c8e92fda26fa3bf361",
+    "url": "/static/media/plum.527d4794.png"
   },
   {
     "revision": "6117c37c2b96a6fb41e04fc03257cc59",
     "url": "/static/media/coral.6117c37c.png"
   },
   {
-    "revision": "e5df02c22038b791bec1",
-    "url": "/static/js/main.e5df02c2.chunk.js"
-  },
-  {
-    "revision": "8281c90f3e387576ee930e0f515e41c7",
-    "url": "/static/media/skillsselect.8281c90f.png"
+    "revision": "062aa311303f9452252a",
+    "url": "/static/js/main.062aa311.chunk.js"
   },
   {
     "revision": "341bd5c23125c3ed0becd7c75353ef03",
     "url": "/static/media/portfolioselect.341bd5c2.png"
+  },
+  {
+    "revision": "8281c90f3e387576ee930e0f515e41c7",
+    "url": "/static/media/skillsselect.8281c90f.png"
   },
   {
     "revision": "0ccca831f7030a4aa1f3f362349d38a0",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/bigfatcellphone.f4c744b5.jpg"
   },
   {
-    "revision": "a5c296755009d75236e37163c2d2b809",
+    "revision": "ed00c41b8abf24705f322db6166a5716",
     "url": "/index.html"
   }
 ];
