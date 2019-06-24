@@ -1,0 +1,50 @@
+self.__precacheManifest = [
+  {
+    "revision": "527d47949a8413c8e92fda26fa3bf361",
+    "url": "/static/media/plum.527d4794.png"
+  },
+  {
+    "revision": "7db09995b28fca6340d9",
+    "url": "/static/css/main.d9f3f2b3.chunk.css"
+  },
+  {
+    "revision": "fdfcfda2d9b1bf31db52",
+    "url": "/static/js/runtime~main.fdfcfda2.js"
+  },
+  {
+    "revision": "ea59f6b6ad2b8aba2c95",
+    "url": "/static/js/2.ea59f6b6.chunk.js"
+  },
+  {
+    "revision": "343e994c1d7c224f1a1e25ee63ef6e6e",
+    "url": "/static/media/lima.343e994c.png"
+  },
+  {
+    "revision": "6117c37c2b96a6fb41e04fc03257cc59",
+    "url": "/static/media/coral.6117c37c.png"
+  },
+  {
+    "revision": "7db09995b28fca6340d9",
+    "url": "/static/js/main.7db09995.chunk.js"
+  },
+  {
+    "revision": "8281c90f3e387576ee930e0f515e41c7",
+    "url": "/static/media/skillsselect.8281c90f.png"
+  },
+  {
+    "revision": "f4c744b52fc6cb722603f56a1c1b5e22",
+    "url": "/static/media/bigfatcellphone.f4c744b5.jpg"
+  },
+  {
+    "revision": "341bd5c23125c3ed0becd7c75353ef03",
+    "url": "/static/media/portfolioselect.341bd5c2.png"
+  },
+  {
+    "revision": "0ccca831f7030a4aa1f3f362349d38a0",
+    "url": "/static/media/code.0ccca831.png"
+  },
+  {
+    "revision": "c92b43a241a1af14cbc833fac8fb6fa1",
+    "url": "/index.html"
+  }
+];
