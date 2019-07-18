@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "343e994c1d7c224f1a1e25ee63ef6e6e",
-    "url": "/static/media/lima.343e994c.png"
+    "revision": "527d47949a8413c8e92fda26fa3bf361",
+    "url": "/static/media/plum.527d4794.png"
   },
   {
-    "revision": "3a588728cb79c5a2d2f9",
+    "revision": "44f1d673820ded959fd9",
     "url": "/static/css/main.1a1a5758.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/static/js/2.53f81ac1.chunk.js"
   },
   {
-    "revision": "527d47949a8413c8e92fda26fa3bf361",
-    "url": "/static/media/plum.527d4794.png"
+    "revision": "343e994c1d7c224f1a1e25ee63ef6e6e",
+    "url": "/static/media/lima.343e994c.png"
   },
   {
     "revision": "6117c37c2b96a6fb41e04fc03257cc59",
     "url": "/static/media/coral.6117c37c.png"
   },
   {
-    "revision": "3a588728cb79c5a2d2f9",
-    "url": "/static/js/main.3a588728.chunk.js"
+    "revision": "44f1d673820ded959fd9",
+    "url": "/static/js/main.44f1d673.chunk.js"
   },
   {
     "revision": "8281c90f3e387576ee930e0f515e41c7",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/static/media/bigfatcellphone.f4c744b5.jpg"
   },
   {
-    "revision": "14ca59ecbecc3eea3119dbb0bc86a1e3",
+    "revision": "6a6f0dad7083ff301114621fb18a32d6",
     "url": "/index.html"
   }
 ];
