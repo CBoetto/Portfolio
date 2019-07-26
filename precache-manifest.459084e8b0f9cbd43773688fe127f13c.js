@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6117c37c2b96a6fb41e04fc03257cc59",
-    "url": "/static/media/coral.6117c37c.png"
+    "revision": "527d47949a8413c8e92fda26fa3bf361",
+    "url": "/static/media/plum.527d4794.png"
   },
   {
-    "revision": "1502a56420c705b736d1",
-    "url": "/static/css/main.1f90ed7d.chunk.css"
+    "revision": "0ef7fc8230f97699211b",
+    "url": "/static/css/main.e7a0395c.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,20 +16,16 @@ self.__precacheManifest = [
     "url": "/static/js/2.7f3c0b2f.chunk.js"
   },
   {
-    "revision": "527d47949a8413c8e92fda26fa3bf361",
-    "url": "/static/media/plum.527d4794.png"
-  },
-  {
     "revision": "343e994c1d7c224f1a1e25ee63ef6e6e",
     "url": "/static/media/lima.343e994c.png"
   },
   {
-    "revision": "1502a56420c705b736d1",
-    "url": "/static/js/main.1502a564.chunk.js"
+    "revision": "6117c37c2b96a6fb41e04fc03257cc59",
+    "url": "/static/media/coral.6117c37c.png"
   },
   {
-    "revision": "8281c90f3e387576ee930e0f515e41c7",
-    "url": "/static/media/skillsselect.8281c90f.png"
+    "revision": "0ef7fc8230f97699211b",
+    "url": "/static/js/main.0ef7fc82.chunk.js"
   },
   {
     "revision": "341bd5c23125c3ed0becd7c75353ef03",
@@ -44,7 +40,11 @@ self.__precacheManifest = [
     "url": "/static/media/bigfatcellphone.f4c744b5.jpg"
   },
   {
-    "revision": "f154584b96ef79db28934e2da53a492e",
+    "revision": "8281c90f3e387576ee930e0f515e41c7",
+    "url": "/static/media/skillsselect.8281c90f.png"
+  },
+  {
+    "revision": "9775b544c788c7359a933eacaaf96455",
     "url": "/index.html"
   }
 ];
